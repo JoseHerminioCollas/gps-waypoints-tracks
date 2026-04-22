@@ -1,0 +1,56 @@
+<gpx version="1.1" creator="split-tracks" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>Jose Collas (-31)</name>
+    <desc>Jose Collas (-31)</desc>
+    <trkseg>
+      <trkpt lat="-13.163770" lon="-74.231681">
+        <ele>2845</ele>
+        <time>2025-12-23T19:41:54Z</time>
+        <desc></desc>
+        <fix>none</fix>
+      </trkpt>
+      <trkpt lat="-13.163770" lon="-74.231681">
+        <ele>2845</ele>
+        <time>2025-12-23T19:41:55Z</time>
+        <desc></desc>
+        <fix>none</fix>
+      </trkpt>
+      <trkpt lat="-13.163770" lon="-74.231681">
+        <ele>2845</ele>
+        <time>2025-12-23T19:41:56Z</time>
+        <desc></desc>
+        <fix>none</fix>
+      </trkpt>
+      <trkpt lat="-13.163770" lon="-74.231681">
+        <ele>2845</ele>
+        <time>2025-12-23T19:41:57Z</time>
+        <desc></desc>
+        <fix>none</fix>
+      </trkpt>
+      <trkpt lat="-13.163770" lon="-74.231681">
+        <ele>2845</ele>
+        <time>2025-12-23T19:41:58Z</time>
+        <desc></desc>
+        <fix>none</fix>
+      </trkpt>
+      <trkpt lat="-13.163770" lon="-74.231681">
+        <ele>2845</ele>
+        <time>2025-12-23T19:41:59Z</time>
+        <desc></desc>
+        <fix>none</fix>
+      </trkpt>
+      <trkpt lat="-13.163769" lon="-74.231681">
+        <ele>2845</ele>
+        <time>2025-12-23T19:42:00Z</time>
+        <desc></desc>
+        <fix>none</fix>
+      </trkpt>
+      <trkpt lat="-13.163769" lon="-74.231681">
+        <ele>2845</ele>
+        <time>2025-12-23T19:42:01Z</time>
+        <desc></desc>
+        <fix>none</fix>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

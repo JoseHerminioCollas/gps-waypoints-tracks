@@ -1,0 +1,20 @@
+<gpx version="1.1" creator="split-tracks" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>Jose Collas (-29)</name>
+    <desc>Jose Collas (-29)</desc>
+    <trkseg>
+      <trkpt lat="-13.134118" lon="-74.230601">
+        <ele>2831.4</ele>
+        <time>2025-12-27T01:10:39Z</time>
+        <desc></desc>
+        <fix>none</fix>
+      </trkpt>
+      <trkpt lat="-13.134117" lon="-74.230599">
+        <ele>2830</ele>
+        <time>2025-12-27T01:10:40Z</time>
+        <desc></desc>
+        <fix>none</fix>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
