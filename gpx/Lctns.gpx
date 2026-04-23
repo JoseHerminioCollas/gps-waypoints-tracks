@@ -1,0 +1,1494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2026-04-23T22:03:40.498Z</time>
+  <bounds minlat="-13.522411231" minlon="-74.227338284" maxlat="-13.062312976" maxlon="-71.810356993"/>
+  <wpt lat="-13.151995400" lon="-74.227338284">
+    <ele>2794.800</ele>
+    <name>20-Dec 1:17p</name>
+    <cmt>20-Dec 1:17p</cmt>
+    <desc>20-Dec 1:17p</desc>
+  </wpt>
+  <wpt lat="-13.062313898" lon="-74.196117120">
+    <ele>2777.800</ele>
+    <name>22-Dec 11:20a</name>
+    <cmt>22-Dec 11:20a</cmt>
+    <desc>22-Dec 11:20a</desc>
+  </wpt>
+  <wpt lat="-13.063152339" lon="-74.198530773">
+    <ele>2735.200</ele>
+    <name>22-Dec 11:57a</name>
+    <cmt>22-Dec 11:57a</cmt>
+    <desc>22-Dec 11:57a</desc>
+  </wpt>
+  <wpt lat="-13.063152339" lon="-74.198530773">
+    <ele>2735.200</ele>
+    <name>22-Dec 11:57a</name>
+    <cmt>22-Dec 11:57a</cmt>
+    <desc>22-Dec 11:57a</desc>
+  </wpt>
+  <wpt lat="-13.063152339" lon="-74.198530773">
+    <ele>2735.000</ele>
+    <name>22-Dec 11:57a</name>
+    <cmt>22-Dec 11:57a</cmt>
+    <desc>22-Dec 11:57a</desc>
+  </wpt>
+  <wpt lat="-13.478989536" lon="-71.967337048">
+    <ele>3804.600</ele>
+    <name>28-Dec 10:13a</name>
+    <cmt>28-Dec 10:13a</cmt>
+    <desc>28-Dec 10:13a</desc>
+  </wpt>
+  <wpt lat="-13.476853324" lon="-71.968608750">
+    <ele>3986.000</ele>
+    <name>28-Dec 10:38a</name>
+    <cmt>28-Dec 10:38a</cmt>
+    <desc>28-Dec 10:38a</desc>
+  </wpt>
+  <wpt lat="-13.474346129" lon="-71.973178731">
+    <ele>3918.400</ele>
+    <name>28-Dec 11:20a</name>
+    <cmt>28-Dec 11:20a</cmt>
+    <desc>28-Dec 11:20a</desc>
+  </wpt>
+  <wpt lat="-13.472140767" lon="-71.976867439">
+    <ele>3972.400</ele>
+    <name>28-Dec 11:40a</name>
+    <cmt>28-Dec 11:40a</cmt>
+    <desc>28-Dec 11:40a</desc>
+  </wpt>
+  <wpt lat="-13.470521970" lon="-71.976862494">
+    <ele>4001.000</ele>
+    <name>28-Dec 11:49a</name>
+    <cmt>28-Dec 11:49a</cmt>
+    <desc>28-Dec 11:49a</desc>
+  </wpt>
+  <wpt lat="-13.469111295" lon="-71.976540880">
+    <ele>4020.600</ele>
+    <name>28-Dec 11:53a</name>
+    <cmt>28-Dec 11:53a</cmt>
+    <desc>28-Dec 11:53a</desc>
+  </wpt>
+  <wpt lat="-13.522411231" lon="-71.989232004">
+    <ele>3458.800</ele>
+    <name>28-Dec 6:05p</name>
+    <cmt>28-Dec 6:05p</cmt>
+    <desc>28-Dec 6:05p</desc>
+  </wpt>
+  <wpt lat="-13.483403781" lon="-71.965153730">
+    <ele>3844.000</ele>
+    <name>29-Dec 8:35a</name>
+    <cmt>29-Dec 8:35a</cmt>
+    <desc>29-Dec 8:35a</desc>
+  </wpt>
+  <wpt lat="-13.481845167" lon="-71.970879994">
+    <ele>3915.600</ele>
+    <name>29-Dec 8:59a</name>
+    <cmt>29-Dec 8:59a</cmt>
+    <desc>29-Dec 8:59a</desc>
+  </wpt>
+  <wpt lat="-13.466457250" lon="-71.975316787">
+    <ele>4115.000</ele>
+    <name>29-Dec 10:25a</name>
+    <cmt>29-Dec 10:25a</cmt>
+    <desc>29-Dec 10:25a</desc>
+  </wpt>
+  <wpt lat="-13.465952240" lon="-71.975976024">
+    <ele>4134.400</ele>
+    <name>29-Dec 10:31a</name>
+    <cmt>29-Dec 10:31a</cmt>
+    <desc>29-Dec 10:31a</desc>
+  </wpt>
+  <wpt lat="-13.462424129" lon="-71.985657876">
+    <ele>4178.800</ele>
+    <name>29-Dec 11:02a</name>
+    <cmt>29-Dec 11:02a</cmt>
+    <desc>29-Dec 11:02a</desc>
+  </wpt>
+  <wpt lat="-13.467790727" lon="-71.984427581">
+    <ele>4162.600</ele>
+    <name>29-Dec 12:12p</name>
+    <cmt>29-Dec 12:12p</cmt>
+    <desc>29-Dec 12:12p</desc>
+  </wpt>
+  <wpt lat="-13.467631135" lon="-71.983636832">
+    <ele>4155.400</ele>
+    <name>29-Dec 12:20p</name>
+    <cmt>29-Dec 12:20p</cmt>
+    <desc>29-Dec 12:20p</desc>
+  </wpt>
+  <wpt lat="-13.472499428" lon="-71.982632177">
+    <ele>4039.800</ele>
+    <name>29-Dec 12:35p</name>
+    <cmt>29-Dec 12:35p</cmt>
+    <desc>29-Dec 12:35p</desc>
+  </wpt>
+  <wpt lat="-13.474987848" lon="-71.978534684">
+    <ele>3961.000</ele>
+    <name>29-Dec 12:49p</name>
+    <cmt>29-Dec 12:49p</cmt>
+    <desc>29-Dec 12:49p</desc>
+  </wpt>
+  <wpt lat="-13.478963636" lon="-71.973753227">
+    <ele>3939.800</ele>
+    <name>29-Dec 1:19p</name>
+    <cmt>29-Dec 1:19p</cmt>
+    <desc>29-Dec 1:19p</desc>
+  </wpt>
+  <wpt lat="-13.483192222" lon="-71.961776745">
+    <ele>3796.400</ele>
+    <name>29-Dec 2:32p</name>
+    <cmt>29-Dec 2:32p</cmt>
+    <desc>29-Dec 2:32p</desc>
+  </wpt>
+  <wpt lat="-13.478091164" lon="-71.974581862">
+    <ele>3950.800</ele>
+    <name>30-Dec 8:36a</name>
+    <cmt>30-Dec 8:36a</cmt>
+    <desc>30-Dec 8:36a</desc>
+  </wpt>
+  <wpt lat="-13.458651770" lon="-71.986404788">
+    <ele>4131.200</ele>
+    <name>30-Dec 11:35a</name>
+    <cmt>30-Dec 11:35a</cmt>
+    <desc>30-Dec 11:35a</desc>
+  </wpt>
+  <wpt lat="-13.458930049" lon="-71.986533953">
+    <ele>4129.400</ele>
+    <name>30-Dec 12:45p</name>
+    <cmt>30-Dec 12:45p</cmt>
+    <desc>30-Dec 12:45p</desc>
+  </wpt>
+  <wpt lat="-13.459662460" lon="-71.984757073">
+    <ele>4136.600</ele>
+    <name>30-Dec 12:55p</name>
+    <cmt>30-Dec 12:55p</cmt>
+    <desc>30-Dec 12:55p</desc>
+  </wpt>
+  <wpt lat="-13.460170152" lon="-71.984056346">
+    <ele>4147.800</ele>
+    <name>30-Dec 12:59p</name>
+    <cmt>30-Dec 12:59p</cmt>
+    <desc>30-Dec 12:59p</desc>
+  </wpt>
+  <wpt lat="-13.508804636" lon="-71.984035559">
+    <ele>3585.400</ele>
+    <name>31-Dec 11:00a</name>
+    <cmt>31-Dec 11:00a</cmt>
+    <desc>31-Dec 11:00a</desc>
+  </wpt>
+  <wpt lat="-13.508234583" lon="-71.983719477">
+    <ele>3592.800</ele>
+    <name>31-Dec 11:03a</name>
+    <cmt>31-Dec 11:03a</cmt>
+    <desc>31-Dec 11:03a</desc>
+  </wpt>
+  <wpt lat="-13.508137185" lon="-71.983617218">
+    <ele>3592.200</ele>
+    <name>31-Dec 11:03a</name>
+    <cmt>31-Dec 11:03a</cmt>
+    <desc>31-Dec 11:03a</desc>
+  </wpt>
+  <wpt lat="-13.508070884" lon="-71.983476570">
+    <ele>3591.600</ele>
+    <name>31-Dec 11:04a</name>
+    <cmt>31-Dec 11:04a</cmt>
+    <desc>31-Dec 11:04a</desc>
+  </wpt>
+  <wpt lat="-13.508053953" lon="-71.983285630">
+    <ele>3593.200</ele>
+    <name>31-Dec 11:05a</name>
+    <cmt>31-Dec 11:05a</cmt>
+    <desc>31-Dec 11:05a</desc>
+  </wpt>
+  <wpt lat="-13.508324521" lon="-71.982530337">
+    <ele>3593.200</ele>
+    <name>31-Dec 11:07a</name>
+    <cmt>31-Dec 11:07a</cmt>
+    <desc>31-Dec 11:07a</desc>
+  </wpt>
+  <wpt lat="-13.508332232" lon="-71.982400753">
+    <ele>3593.600</ele>
+    <name>31-Dec 11:08a</name>
+    <cmt>31-Dec 11:08a</cmt>
+    <desc>31-Dec 11:08a</desc>
+  </wpt>
+  <wpt lat="-13.508369531" lon="-71.982147535">
+    <ele>3595.200</ele>
+    <name>31-Dec 11:10a</name>
+    <cmt>31-Dec 11:10a</cmt>
+    <desc>31-Dec 11:10a</desc>
+  </wpt>
+  <wpt lat="-13.508438598" lon="-71.981934970">
+    <ele>3595.800</ele>
+    <name>31-Dec 11:11a</name>
+    <cmt>31-Dec 11:11a</cmt>
+    <desc>31-Dec 11:11a</desc>
+  </wpt>
+  <wpt lat="-13.508457625" lon="-71.981959278">
+    <ele>3595.600</ele>
+    <name>31-Dec 11:11a</name>
+    <cmt>31-Dec 11:11a</cmt>
+    <desc>31-Dec 11:11a</desc>
+  </wpt>
+  <wpt lat="-13.508404819" lon="-71.981378244">
+    <ele>3593.200</ele>
+    <name>31-Dec 11:12a</name>
+    <cmt>31-Dec 11:12a</cmt>
+    <desc>31-Dec 11:12a</desc>
+  </wpt>
+  <wpt lat="-13.508426528" lon="-71.981182694">
+    <ele>3592.800</ele>
+    <name>31-Dec 11:13a</name>
+    <cmt>31-Dec 11:13a</cmt>
+    <desc>31-Dec 11:13a</desc>
+  </wpt>
+  <wpt lat="-13.506716033" lon="-71.980766449">
+    <ele>3601.400</ele>
+    <name>31-Dec 11:18a</name>
+    <cmt>31-Dec 11:18a</cmt>
+    <desc>31-Dec 11:18a</desc>
+  </wpt>
+  <wpt lat="-13.506054282" lon="-71.980717164">
+    <ele>3609.000</ele>
+    <name>31-Dec 11:20a</name>
+    <cmt>31-Dec 11:20a</cmt>
+    <desc>31-Dec 11:20a</desc>
+  </wpt>
+  <wpt lat="-13.505779020" lon="-71.981141036">
+    <ele>3605.400</ele>
+    <name>31-Dec 11:27a</name>
+    <cmt>31-Dec 11:27a</cmt>
+    <desc>31-Dec 11:27a</desc>
+  </wpt>
+  <wpt lat="-13.506052354" lon="-71.981553091">
+    <ele>3604.000</ele>
+    <name>31-Dec 11:30a</name>
+    <cmt>31-Dec 11:30a</cmt>
+    <desc>31-Dec 11:30a</desc>
+  </wpt>
+  <wpt lat="-13.506052354" lon="-71.981553091">
+    <ele>3604.200</ele>
+    <name>31-Dec 11:32a</name>
+    <cmt>31-Dec 11:32a</cmt>
+    <desc>31-Dec 11:32a</desc>
+  </wpt>
+  <wpt lat="-13.505701991" lon="-71.981306076">
+    <ele>3604.600</ele>
+    <name>31-Dec 11:35a</name>
+    <cmt>31-Dec 11:35a</cmt>
+    <desc>31-Dec 11:35a</desc>
+  </wpt>
+  <wpt lat="-13.505416419" lon="-71.981699439">
+    <ele>3606.800</ele>
+    <name>31-Dec 11:37a</name>
+    <cmt>31-Dec 11:37a</cmt>
+    <desc>31-Dec 11:37a</desc>
+  </wpt>
+  <wpt lat="-13.505517673" lon="-71.981505649">
+    <ele>3603.800</ele>
+    <name>31-Dec 11:41a</name>
+    <cmt>31-Dec 11:41a</cmt>
+    <desc>31-Dec 11:41a</desc>
+  </wpt>
+  <wpt lat="-13.506014217" lon="-71.981867161">
+    <ele>3605.600</ele>
+    <name>31-Dec 11:44a</name>
+    <cmt>31-Dec 11:44a</cmt>
+    <desc>31-Dec 11:44a</desc>
+  </wpt>
+  <wpt lat="-13.506513024" lon="-71.981820054">
+    <ele>3609.000</ele>
+    <name>31-Dec 11:50a</name>
+    <cmt>31-Dec 11:50a</cmt>
+    <desc>31-Dec 11:50a</desc>
+  </wpt>
+  <wpt lat="-13.506689630" lon="-71.981699858">
+    <ele>3609.800</ele>
+    <name>31-Dec 11:51a</name>
+    <cmt>31-Dec 11:51a</cmt>
+    <desc>31-Dec 11:51a</desc>
+  </wpt>
+  <wpt lat="-13.506858693" lon="-71.981603885">
+    <ele>3610.000</ele>
+    <name>31-Dec 11:52a</name>
+    <cmt>31-Dec 11:52a</cmt>
+    <desc>31-Dec 11:52a</desc>
+  </wpt>
+  <wpt lat="-13.507384993" lon="-71.981394589">
+    <ele>3604.800</ele>
+    <name>31-Dec 12:02p</name>
+    <cmt>31-Dec 12:02p</cmt>
+    <desc>31-Dec 12:02p</desc>
+  </wpt>
+  <wpt lat="-13.507134039" lon="-71.982235881">
+    <ele>3611.600</ele>
+    <name>31-Dec 12:09p</name>
+    <cmt>31-Dec 12:09p</cmt>
+    <desc>31-Dec 12:09p</desc>
+  </wpt>
+  <wpt lat="-13.507229257" lon="-71.982296398">
+    <ele>3611.800</ele>
+    <name>31-Dec 12:11p</name>
+    <cmt>31-Dec 12:11p</cmt>
+    <desc>31-Dec 12:11p</desc>
+  </wpt>
+  <wpt lat="-13.508495595" lon="-71.981699523">
+    <ele>3586.400</ele>
+    <name>31-Dec 12:52p</name>
+    <cmt>31-Dec 12:52p</cmt>
+    <desc>31-Dec 12:52p</desc>
+  </wpt>
+  <wpt lat="-13.508583270" lon="-71.981705641">
+    <ele>3587.400</ele>
+    <name>31-Dec 12:53p</name>
+    <cmt>31-Dec 12:53p</cmt>
+    <desc>31-Dec 12:53p</desc>
+  </wpt>
+  <wpt lat="-13.509333869" lon="-71.982530924">
+    <ele>3609.200</ele>
+    <name>31-Dec 1:02p</name>
+    <cmt>31-Dec 1:02p</cmt>
+    <desc>31-Dec 1:02p</desc>
+  </wpt>
+  <wpt lat="-13.511018464" lon="-71.980480878">
+    <ele>3578.200</ele>
+    <name>31-Dec 1:41p</name>
+    <cmt>31-Dec 1:41p</cmt>
+    <desc>31-Dec 1:41p</desc>
+  </wpt>
+  <wpt lat="-13.509555571" lon="-71.982295979">
+    <ele>3603.000</ele>
+    <name>31-Dec 1:47p</name>
+    <cmt>31-Dec 1:47p</cmt>
+    <desc>31-Dec 1:47p</desc>
+  </wpt>
+  <wpt lat="-13.509496646" lon="-71.982522877">
+    <ele>3603.000</ele>
+    <name>31-Dec 1:48p</name>
+    <cmt>31-Dec 1:48p</cmt>
+    <desc>31-Dec 1:48p</desc>
+  </wpt>
+  <wpt lat="-13.509336552" lon="-71.982534779">
+    <ele>3609.200</ele>
+    <name>31-Dec 1:53p</name>
+    <cmt>31-Dec 1:53p</cmt>
+    <desc>31-Dec 1:53p</desc>
+  </wpt>
+  <wpt lat="-13.509143516" lon="-71.982612396">
+    <ele>3608.800</ele>
+    <name>31-Dec 1:55p</name>
+    <cmt>31-Dec 1:55p</cmt>
+    <desc>31-Dec 1:55p</desc>
+  </wpt>
+  <wpt lat="-13.508808827" lon="-71.982732257">
+    <ele>3609.200</ele>
+    <name>31-Dec 1:58p</name>
+    <cmt>31-Dec 1:58p</cmt>
+    <desc>31-Dec 1:58p</desc>
+  </wpt>
+  <wpt lat="-13.508387133" lon="-71.983562736">
+    <ele>3604.000</ele>
+    <name>31-Dec 2:34p</name>
+    <cmt>31-Dec 2:34p</cmt>
+    <desc>31-Dec 2:34p</desc>
+  </wpt>
+  <wpt lat="-13.508387133" lon="-71.983562736">
+    <ele>3604.000</ele>
+    <name>31-Dec 2:35p</name>
+    <cmt>31-Dec 2:35p</cmt>
+    <desc>31-Dec 2:35p</desc>
+  </wpt>
+  <wpt lat="-13.507133536" lon="-71.983483946">
+    <ele>3592.400</ele>
+    <name>31-Dec 2:39p</name>
+    <cmt>31-Dec 2:39p</cmt>
+    <desc>31-Dec 2:39p</desc>
+  </wpt>
+  <wpt lat="-13.506311523" lon="-71.982072769">
+    <ele>3615.600</ele>
+    <name>31-Dec 2:48p</name>
+    <cmt>31-Dec 2:48p</cmt>
+    <desc>31-Dec 2:48p</desc>
+  </wpt>
+  <wpt lat="-13.506332394" lon="-71.981918793">
+    <ele>3615.600</ele>
+    <name>31-Dec 2:49p</name>
+    <cmt>31-Dec 2:49p</cmt>
+    <desc>31-Dec 2:49p</desc>
+  </wpt>
+  <wpt lat="-13.506221082" lon="-71.981821144">
+    <ele>3615.000</ele>
+    <name>31-Dec 2:50p</name>
+    <cmt>31-Dec 2:50p</cmt>
+    <desc>31-Dec 2:50p</desc>
+  </wpt>
+  <wpt lat="-13.506119577" lon="-71.981809577">
+    <ele>3615.600</ele>
+    <name>31-Dec 2:51p</name>
+    <cmt>31-Dec 2:51p</cmt>
+    <desc>31-Dec 2:51p</desc>
+  </wpt>
+  <wpt lat="-13.505873065" lon="-71.981844027">
+    <ele>3617.200</ele>
+    <name>31-Dec 2:52p</name>
+    <cmt>31-Dec 2:52p</cmt>
+    <desc>31-Dec 2:52p</desc>
+  </wpt>
+  <wpt lat="-13.506115973" lon="-71.981573878">
+    <ele>3610.400</ele>
+    <name>31-Dec 2:53p</name>
+    <cmt>31-Dec 2:53p</cmt>
+    <desc>31-Dec 2:53p</desc>
+  </wpt>
+  <wpt lat="-13.504442023" lon="-71.981270956">
+    <ele>3621.200</ele>
+    <name>31-Dec 3:00p</name>
+    <cmt>31-Dec 3:00p</cmt>
+    <desc>31-Dec 3:00p</desc>
+  </wpt>
+  <wpt lat="-13.504108591" lon="-71.981021678">
+    <ele>3619.600</ele>
+    <name>31-Dec 3:02p</name>
+    <cmt>31-Dec 3:02p</cmt>
+    <desc>31-Dec 3:02p</desc>
+  </wpt>
+  <wpt lat="-13.504296178" lon="-71.980848340">
+    <ele>3619.400</ele>
+    <name>31-Dec 3:04p</name>
+    <cmt>31-Dec 3:04p</cmt>
+    <desc>31-Dec 3:04p</desc>
+  </wpt>
+  <wpt lat="-13.504441269" lon="-71.980997957">
+    <ele>3618.600</ele>
+    <name>31-Dec 3:05p</name>
+    <cmt>31-Dec 3:05p</cmt>
+    <desc>31-Dec 3:05p</desc>
+  </wpt>
+  <wpt lat="-13.504442442" lon="-71.980995527">
+    <ele>3618.400</ele>
+    <name>31-Dec 3:05p</name>
+    <cmt>31-Dec 3:05p</cmt>
+    <desc>31-Dec 3:05p</desc>
+  </wpt>
+  <wpt lat="-13.504390894" lon="-71.980882790">
+    <ele>3618.000</ele>
+    <name>31-Dec 3:06p</name>
+    <cmt>31-Dec 3:06p</cmt>
+    <desc>31-Dec 3:06p</desc>
+  </wpt>
+  <wpt lat="-13.504180675" lon="-71.981037939">
+    <ele>3618.400</ele>
+    <name>31-Dec 3:07p</name>
+    <cmt>31-Dec 3:07p</cmt>
+    <desc>31-Dec 3:07p</desc>
+  </wpt>
+  <wpt lat="-13.504199535" lon="-71.981054787">
+    <ele>3618.200</ele>
+    <name>31-Dec 3:07p</name>
+    <cmt>31-Dec 3:07p</cmt>
+    <desc>31-Dec 3:07p</desc>
+  </wpt>
+  <wpt lat="-13.505087262" lon="-71.981365588">
+    <ele>3617.800</ele>
+    <name>31-Dec 3:10p</name>
+    <cmt>31-Dec 3:10p</cmt>
+    <desc>31-Dec 3:10p</desc>
+  </wpt>
+  <wpt lat="-13.506249832" lon="-71.980793020">
+    <ele>3611.200</ele>
+    <name>31-Dec 3:12p</name>
+    <cmt>31-Dec 3:12p</cmt>
+    <desc>31-Dec 3:12p</desc>
+  </wpt>
+  <wpt lat="-13.507323135" lon="-71.981089320">
+    <ele>3600.000</ele>
+    <name>31-Dec 3:16p</name>
+    <cmt>31-Dec 3:16p</cmt>
+    <desc>31-Dec 3:16p</desc>
+  </wpt>
+  <wpt lat="-13.458492933" lon="-71.985953590">
+    <ele>4131.000</ele>
+    <name>01-Jan 11:40a</name>
+    <cmt>01-Jan 11:40a</cmt>
+    <desc>01-Jan 11:40a</desc>
+  </wpt>
+  <wpt lat="-13.452539686" lon="-71.989510283">
+    <ele>4169.000</ele>
+    <name>01-Jan 12:08p</name>
+    <cmt>01-Jan 12:08p</cmt>
+    <desc>01-Jan 12:08p</desc>
+  </wpt>
+  <wpt lat="-13.452356793" lon="-71.989154555">
+    <ele>4171.000</ele>
+    <name>01-Jan 12:14p</name>
+    <cmt>01-Jan 12:14p</cmt>
+    <desc>01-Jan 12:14p</desc>
+  </wpt>
+  <wpt lat="-13.432416162" lon="-71.983226957">
+    <ele>4273.800</ele>
+    <name>01-Jan 2:09p</name>
+    <cmt>01-Jan 2:09p</cmt>
+    <desc>01-Jan 2:09p</desc>
+  </wpt>
+  <wpt lat="-13.435869087" lon="-71.971585834">
+    <ele>4319.200</ele>
+    <name>01-Jan 3:25p</name>
+    <cmt>01-Jan 3:25p</cmt>
+    <desc>01-Jan 3:25p</desc>
+  </wpt>
+  <wpt lat="-13.418850722" lon="-71.847861148">
+    <ele>3158.800</ele>
+    <name>06-Jan 12:43p</name>
+    <cmt>06-Jan 12:43p</cmt>
+    <desc>06-Jan 12:43p</desc>
+  </wpt>
+  <wpt lat="-13.418019572" lon="-71.845501140">
+    <ele>3254.400</ele>
+    <name>06-Jan 1:10p</name>
+    <cmt>06-Jan 1:10p</cmt>
+    <desc>06-Jan 1:10p</desc>
+  </wpt>
+  <wpt lat="-13.417689828" lon="-71.844940977">
+    <ele>3277.600</ele>
+    <name>06-Jan 1:16p</name>
+    <cmt>06-Jan 1:16p</cmt>
+    <desc>06-Jan 1:16p</desc>
+  </wpt>
+  <wpt lat="-13.415063778" lon="-71.844401350">
+    <ele>3319.800</ele>
+    <name>06-Jan 1:45p</name>
+    <cmt>06-Jan 1:45p</cmt>
+    <desc>06-Jan 1:45p</desc>
+  </wpt>
+  <wpt lat="-13.414502526" lon="-71.844025422">
+    <ele>3343.000</ele>
+    <name>06-Jan 1:51p</name>
+    <cmt>06-Jan 1:51p</cmt>
+    <desc>06-Jan 1:51p</desc>
+  </wpt>
+  <wpt lat="-13.411042225" lon="-71.843649661">
+    <ele>3408.400</ele>
+    <name>06-Jan 2:59p</name>
+    <cmt>06-Jan 2:59p</cmt>
+    <desc>06-Jan 2:59p</desc>
+  </wpt>
+  <wpt lat="-13.406589003" lon="-71.841576146">
+    <ele>3460.000</ele>
+    <name>06-Jan 3:18p</name>
+    <cmt>06-Jan 3:18p</cmt>
+    <desc>06-Jan 3:18p</desc>
+  </wpt>
+  <wpt lat="-13.408486666" lon="-71.844021063">
+    <ele>3457.400</ele>
+    <name>06-Jan 3:34p</name>
+    <cmt>06-Jan 3:34p</cmt>
+    <desc>06-Jan 3:34p</desc>
+  </wpt>
+  <wpt lat="-13.423294639" lon="-71.849722182">
+    <ele>2967.400</ele>
+    <name>06-Jan 4:44p</name>
+    <cmt>06-Jan 4:44p</cmt>
+    <desc>06-Jan 4:44p</desc>
+  </wpt>
+  <wpt lat="-13.521840172" lon="-71.981983166">
+    <ele>3421.000</ele>
+    <name>19-Jan 11:12a</name>
+    <cmt>19-Jan 11:12a</cmt>
+    <desc>19-Jan 11:12a</desc>
+  </wpt>
+  <wpt lat="-13.437325777" lon="-71.828655945">
+    <ele>3221.000</ele>
+    <name>21-Jan 12:56p</name>
+    <cmt>21-Jan 12:56p</cmt>
+    <desc>21-Jan 12:56p</desc>
+  </wpt>
+  <wpt lat="-13.437218657" lon="-71.829017792">
+    <ele>3216.000</ele>
+    <name>21-Jan 1:06p</name>
+    <cmt>21-Jan 1:06p</cmt>
+    <desc>21-Jan 1:06p</desc>
+  </wpt>
+  <wpt lat="-13.434473332" lon="-71.835813755">
+    <ele>2993.800</ele>
+    <name>21-Jan 1:47p</name>
+    <cmt>21-Jan 1:47p</cmt>
+    <desc>21-Jan 1:47p</desc>
+  </wpt>
+  <wpt lat="-13.412640737" lon="-71.847534673">
+    <ele>3298.200</ele>
+    <name>09-Feb 11:37a</name>
+    <cmt>09-Feb 11:37a</cmt>
+    <desc>09-Feb 11:37a</desc>
+  </wpt>
+  <wpt lat="-13.412006898" lon="-71.850715689">
+    <ele>3444.800</ele>
+    <name>12-Feb 5:23p</name>
+    <cmt>12-Feb 5:23p</cmt>
+    <desc>12-Feb 5:23p</desc>
+  </wpt>
+  <wpt lat="-13.409196865" lon="-71.845535589">
+    <ele>3419.600</ele>
+    <name>15-Feb 12:33p</name>
+    <cmt>15-Feb 12:33p</cmt>
+    <desc>15-Feb 12:33p</desc>
+  </wpt>
+  <wpt lat="-13.408388682" lon="-71.845354540">
+    <ele>3431.800</ele>
+    <name>15-Feb 12:57p</name>
+    <cmt>15-Feb 12:57p</cmt>
+    <desc>15-Feb 12:57p</desc>
+  </wpt>
+  <wpt lat="-13.407768589" lon="-71.844966961">
+    <ele>3439.800</ele>
+    <name>15-Feb 1:01p</name>
+    <cmt>15-Feb 1:01p</cmt>
+    <desc>15-Feb 1:01p</desc>
+  </wpt>
+  <wpt lat="-13.406808274" lon="-71.844375618">
+    <ele>3461.000</ele>
+    <name>15-Feb 1:07p</name>
+    <cmt>15-Feb 1:07p</cmt>
+    <desc>15-Feb 1:07p</desc>
+  </wpt>
+  <wpt lat="-13.405068694" lon="-71.845069388">
+    <ele>3521.000</ele>
+    <name>15-Feb 1:23p</name>
+    <cmt>15-Feb 1:23p</cmt>
+    <desc>15-Feb 1:23p</desc>
+  </wpt>
+  <wpt lat="-13.406329500" lon="-71.845762990">
+    <ele>3559.800</ele>
+    <name>15-Feb 1:33p</name>
+    <cmt>15-Feb 1:33p</cmt>
+    <desc>15-Feb 1:33p</desc>
+  </wpt>
+  <wpt lat="-13.403811743" lon="-71.846539322">
+    <ele>3641.800</ele>
+    <name>15-Feb 2:23p</name>
+    <cmt>15-Feb 2:23p</cmt>
+    <desc>15-Feb 2:23p</desc>
+  </wpt>
+  <wpt lat="-13.409701455" lon="-71.845592167">
+    <ele>3427.600</ele>
+    <name>15-Feb 4:05p</name>
+    <cmt>15-Feb 4:05p</cmt>
+    <desc>15-Feb 4:05p</desc>
+  </wpt>
+  <wpt lat="-13.413342722" lon="-71.846187199">
+    <ele>3307.200</ele>
+    <name>15-Feb 4:21p</name>
+    <cmt>15-Feb 4:21p</cmt>
+    <desc>15-Feb 4:21p</desc>
+  </wpt>
+  <wpt lat="-13.410409642" lon="-71.853882959">
+    <ele>3392.400</ele>
+    <name>18-Feb 9:12a</name>
+    <cmt>18-Feb 9:12a</cmt>
+    <desc>18-Feb 9:12a</desc>
+  </wpt>
+  <wpt lat="-13.412934942" lon="-71.852755593">
+    <ele>3380.600</ele>
+    <name>18-Feb 9:23a</name>
+    <cmt>18-Feb 9:23a</cmt>
+    <desc>18-Feb 9:23a</desc>
+  </wpt>
+  <wpt lat="-13.413426457" lon="-71.850679144">
+    <ele>3371.600</ele>
+    <name>18-Feb 9:28a</name>
+    <cmt>18-Feb 9:28a</cmt>
+    <desc>18-Feb 9:28a</desc>
+  </wpt>
+  <wpt lat="-13.404318262" lon="-71.846137829">
+    <ele>3613.000</ele>
+    <name>18-Feb 10:31a</name>
+    <cmt>18-Feb 10:31a</cmt>
+    <desc>18-Feb 10:31a</desc>
+  </wpt>
+  <wpt lat="-13.403950296" lon="-71.845854521">
+    <ele>3624.600</ele>
+    <name>18-Feb 12:02p</name>
+    <cmt>18-Feb 12:02p</cmt>
+    <desc>18-Feb 12:02p</desc>
+  </wpt>
+  <wpt lat="-13.405097527" lon="-71.845682021">
+    <ele>3590.400</ele>
+    <name>18-Feb 12:08p</name>
+    <cmt>18-Feb 12:08p</cmt>
+    <desc>18-Feb 12:08p</desc>
+  </wpt>
+  <wpt lat="-13.406764688" lon="-71.846306892">
+    <ele>3560.200</ele>
+    <name>18-Feb 12:16p</name>
+    <cmt>18-Feb 12:16p</cmt>
+    <desc>18-Feb 12:16p</desc>
+  </wpt>
+  <wpt lat="-13.409098629" lon="-71.847321438">
+    <ele>3517.400</ele>
+    <name>18-Feb 12:22p</name>
+    <cmt>18-Feb 12:22p</cmt>
+    <desc>18-Feb 12:22p</desc>
+  </wpt>
+  <wpt lat="-13.379883086" lon="-71.810357245">
+    <ele>3574.000</ele>
+    <name>25-Feb 9:33a</name>
+    <cmt>25-Feb 9:33a</cmt>
+    <desc>25-Feb 9:33a</desc>
+  </wpt>
+  <wpt lat="-13.349951645" lon="-71.826886358">
+    <ele>4114.200</ele>
+    <name>25-Feb 12:10p</name>
+    <cmt>25-Feb 12:10p</cmt>
+    <desc>25-Feb 12:10p</desc>
+  </wpt>
+  <wpt lat="-13.363605682" lon="-71.817946890">
+    <ele>3906.800</ele>
+    <name>25-Feb 3:14p</name>
+    <cmt>25-Feb 3:14p</cmt>
+    <desc>25-Feb 3:14p</desc>
+  </wpt>
+  <wpt lat="-13.385380860" lon="-71.849359497">
+    <ele>3985.400</ele>
+    <name>30-Mar 10:39a</name>
+    <cmt>30-Mar 10:39a</cmt>
+    <desc>30-Mar 10:39a</desc>
+  </wpt>
+  <wpt lat="-13.506053947" lon="-71.980716996">
+    <ele>3609.000</ele>
+    <name>31-Dec 11:20a</name>
+    <cmt>31-Dec 11:20a</cmt>
+    <desc>31-Dec 11:20a</desc>
+  </wpt>
+  <wpt lat="-13.505700985" lon="-71.981305992">
+    <ele>3604.600</ele>
+    <name>31-Dec 11:35a</name>
+    <cmt>31-Dec 11:35a</cmt>
+    <desc>31-Dec 11:35a</desc>
+  </wpt>
+  <wpt lat="-13.504198948" lon="-71.981053948">
+    <ele>3618.200</ele>
+    <name>31-Dec 3:07p</name>
+    <cmt>31-Dec 3:07p</cmt>
+    <desc>31-Dec 3:07p</desc>
+  </wpt>
+  <wpt lat="-13.452538932" lon="-71.989509948">
+    <ele>4169.000</ele>
+    <name>01-Jan 12:08p</name>
+    <cmt>01-Jan 12:08p</cmt>
+    <desc>01-Jan 12:08p</desc>
+  </wpt>
+  <wpt lat="-13.435868919" lon="-71.971584996">
+    <ele>4319.200</ele>
+    <name>01-Jan 3:25p</name>
+    <cmt>01-Jan 3:25p</cmt>
+    <desc>01-Jan 3:25p</desc>
+  </wpt>
+  <wpt lat="-13.452355955" lon="-71.989153968">
+    <ele>4171.000</ele>
+    <name>01-Jan 12:14p</name>
+    <cmt>01-Jan 12:14p</cmt>
+    <desc>01-Jan 12:14p</desc>
+  </wpt>
+  <wpt lat="-13.507322967" lon="-71.981088985">
+    <ele>3600.000</ele>
+    <name>31-Dec 3:16p</name>
+    <cmt>31-Dec 3:16p</cmt>
+    <desc>31-Dec 3:16p</desc>
+  </wpt>
+  <wpt lat="-13.406763934" lon="-71.846305970">
+    <ele>3560.200</ele>
+    <name>18-Feb 12:16p</name>
+    <cmt>18-Feb 12:16p</cmt>
+    <desc>18-Feb 12:16p</desc>
+  </wpt>
+  <wpt lat="-13.458650932" lon="-71.986403950">
+    <ele>4131.200</ele>
+    <name>30-Dec 11:35a</name>
+    <cmt>30-Dec 11:35a</cmt>
+    <desc>30-Dec 11:35a</desc>
+  </wpt>
+  <wpt lat="-13.506013965" lon="-71.981866993">
+    <ele>3605.600</ele>
+    <name>31-Dec 11:44a</name>
+    <cmt>31-Dec 11:44a</cmt>
+    <desc>31-Dec 11:44a</desc>
+  </wpt>
+  <wpt lat="-13.405067939" lon="-71.845068969">
+    <ele>3521.000</ele>
+    <name>15-Feb 1:23p</name>
+    <cmt>15-Feb 1:23p</cmt>
+    <desc>15-Feb 1:23p</desc>
+  </wpt>
+  <wpt lat="-13.483191971" lon="-71.961775990">
+    <ele>3796.400</ele>
+    <name>29-Dec 2:32p</name>
+    <cmt>29-Dec 2:32p</cmt>
+    <desc>29-Dec 2:32p</desc>
+  </wpt>
+  <wpt lat="-13.406328997" lon="-71.845761985">
+    <ele>3559.800</ele>
+    <name>15-Feb 1:33p</name>
+    <cmt>15-Feb 1:33p</cmt>
+    <desc>15-Feb 1:33p</desc>
+  </wpt>
+  <wpt lat="-13.508803966" lon="-71.984034972">
+    <ele>3585.400</ele>
+    <name>31-Dec 11:00a</name>
+    <cmt>31-Dec 11:00a</cmt>
+    <desc>31-Dec 11:00a</desc>
+  </wpt>
+  <wpt lat="-13.474345962" lon="-71.973177977">
+    <ele>3918.400</ele>
+    <name>28-Dec 11:20a</name>
+    <cmt>28-Dec 11:20a</cmt>
+    <desc>28-Dec 11:20a</desc>
+  </wpt>
+  <wpt lat="-13.508403981" lon="-71.981377993">
+    <ele>3593.200</ele>
+    <name>31-Dec 11:12a</name>
+    <cmt>31-Dec 11:12a</cmt>
+    <desc>31-Dec 11:12a</desc>
+  </wpt>
+  <wpt lat="-13.504440933" lon="-71.980996951">
+    <ele>3618.600</ele>
+    <name>31-Dec 3:05p</name>
+    <cmt>31-Dec 3:05p</cmt>
+    <desc>31-Dec 3:05p</desc>
+  </wpt>
+  <wpt lat="-13.434472997" lon="-71.835812917">
+    <ele>2993.800</ele>
+    <name>21-Jan 1:47p</name>
+    <cmt>21-Jan 1:47p</cmt>
+    <desc>21-Jan 1:47p</desc>
+  </wpt>
+  <wpt lat="-13.505872982" lon="-71.981843943">
+    <ele>3617.200</ele>
+    <name>31-Dec 2:52p</name>
+    <cmt>31-Dec 2:52p</cmt>
+    <desc>31-Dec 2:52p</desc>
+  </wpt>
+  <wpt lat="-13.467789972" lon="-71.984426994">
+    <ele>4162.600</ele>
+    <name>29-Dec 12:12p</name>
+    <cmt>29-Dec 12:12p</cmt>
+    <desc>29-Dec 12:12p</desc>
+  </wpt>
+  <wpt lat="-13.508807989" lon="-71.982731922">
+    <ele>3609.200</ele>
+    <name>31-Dec 1:58p</name>
+    <cmt>31-Dec 1:58p</cmt>
+    <desc>31-Dec 1:58p</desc>
+  </wpt>
+  <wpt lat="-13.437324939" lon="-71.828654939">
+    <ele>3221.000</ele>
+    <name>21-Jan 12:56p</name>
+    <cmt>21-Jan 12:56p</cmt>
+    <desc>21-Jan 12:56p</desc>
+  </wpt>
+  <wpt lat="-13.506114967" lon="-71.981572956">
+    <ele>3610.400</ele>
+    <name>31-Dec 2:53p</name>
+    <cmt>31-Dec 2:53p</cmt>
+    <desc>31-Dec 2:53p</desc>
+  </wpt>
+  <wpt lat="-13.506857939" lon="-71.981602963">
+    <ele>3610.000</ele>
+    <name>31-Dec 11:52a</name>
+    <cmt>31-Dec 11:52a</cmt>
+    <desc>31-Dec 11:52a</desc>
+  </wpt>
+  <wpt lat="-13.478988949" lon="-71.967336964">
+    <ele>3804.600</ele>
+    <name>28-Dec 10:13a</name>
+    <cmt>28-Dec 10:13a</cmt>
+    <desc>28-Dec 10:13a</desc>
+  </wpt>
+  <wpt lat="-13.404317927" lon="-71.846136991">
+    <ele>3613.000</ele>
+    <name>18-Feb 10:31a</name>
+    <cmt>18-Feb 10:31a</cmt>
+    <desc>18-Feb 10:31a</desc>
+  </wpt>
+  <wpt lat="-13.508069962" lon="-71.983475983">
+    <ele>3591.600</ele>
+    <name>31-Dec 11:04a</name>
+    <cmt>31-Dec 11:04a</cmt>
+    <desc>31-Dec 11:04a</desc>
+  </wpt>
+  <wpt lat="-13.063151920" lon="-74.198529935">
+    <ele>2735.200</ele>
+    <name>22-Dec 11:57a</name>
+    <cmt>22-Dec 11:57a</cmt>
+    <desc>22-Dec 11:57a</desc>
+  </wpt>
+  <wpt lat="-13.508456955" lon="-71.981958942">
+    <ele>3595.600</ele>
+    <name>31-Dec 11:11a</name>
+    <cmt>31-Dec 11:11a</cmt>
+    <desc>31-Dec 11:11a</desc>
+  </wpt>
+  <wpt lat="-13.459661957" lon="-71.984756989">
+    <ele>4136.600</ele>
+    <name>30-Dec 12:55p</name>
+    <cmt>30-Dec 12:55p</cmt>
+    <desc>30-Dec 12:55p</desc>
+  </wpt>
+  <wpt lat="-13.504179921" lon="-71.981036933">
+    <ele>3618.400</ele>
+    <name>31-Dec 3:07p</name>
+    <cmt>31-Dec 3:07p</cmt>
+    <desc>31-Dec 3:07p</desc>
+  </wpt>
+  <wpt lat="-13.506248994" lon="-71.980792936">
+    <ele>3611.200</ele>
+    <name>31-Dec 3:12p</name>
+    <cmt>31-Dec 3:12p</cmt>
+    <desc>31-Dec 3:12p</desc>
+  </wpt>
+  <wpt lat="-13.507133955" lon="-71.982234959">
+    <ele>3611.600</ele>
+    <name>31-Dec 12:09p</name>
+    <cmt>31-Dec 12:09p</cmt>
+    <desc>31-Dec 12:09p</desc>
+  </wpt>
+  <wpt lat="-13.481844999" lon="-71.970878989">
+    <ele>3915.600</ele>
+    <name>29-Dec 8:59a</name>
+    <cmt>29-Dec 8:59a</cmt>
+    <desc>29-Dec 8:59a</desc>
+  </wpt>
+  <wpt lat="-13.409195943" lon="-71.845534919">
+    <ele>3419.600</ele>
+    <name>15-Feb 12:33p</name>
+    <cmt>15-Feb 12:33p</cmt>
+    <desc>15-Feb 12:33p</desc>
+  </wpt>
+  <wpt lat="-13.151994981" lon="-74.227337949">
+    <ele>2794.800</ele>
+    <name>20-Dec 1:17p</name>
+    <cmt>20-Dec 1:17p</cmt>
+    <desc>20-Dec 1:17p</desc>
+  </wpt>
+  <wpt lat="-13.412933936" lon="-71.852754923">
+    <ele>3380.600</ele>
+    <name>18-Feb 9:23a</name>
+    <cmt>18-Feb 9:23a</cmt>
+    <desc>18-Feb 9:23a</desc>
+  </wpt>
+  <wpt lat="-13.504441939" lon="-71.980994940">
+    <ele>3618.400</ele>
+    <name>31-Dec 3:05p</name>
+    <cmt>31-Dec 3:05p</cmt>
+    <desc>31-Dec 3:05p</desc>
+  </wpt>
+  <wpt lat="-13.511017961" lon="-71.980479956">
+    <ele>3578.200</ele>
+    <name>31-Dec 1:41p</name>
+    <cmt>31-Dec 1:41p</cmt>
+    <desc>31-Dec 1:41p</desc>
+  </wpt>
+  <wpt lat="-13.504441939" lon="-71.981269950">
+    <ele>3621.200</ele>
+    <name>31-Dec 3:00p</name>
+    <cmt>31-Dec 3:00p</cmt>
+    <desc>31-Dec 3:00p</desc>
+  </wpt>
+  <wpt lat="-13.418849967" lon="-71.847860981">
+    <ele>3158.800</ele>
+    <name>06-Jan 12:43p</name>
+    <cmt>06-Jan 12:43p</cmt>
+    <desc>06-Jan 12:43p</desc>
+  </wpt>
+  <wpt lat="-13.458491927" lon="-71.985952919">
+    <ele>4131.000</ele>
+    <name>01-Jan 11:40a</name>
+    <cmt>01-Jan 11:40a</cmt>
+    <desc>01-Jan 11:40a</desc>
+  </wpt>
+  <wpt lat="-13.508136934" lon="-71.983616967">
+    <ele>3592.200</ele>
+    <name>31-Dec 11:03a</name>
+    <cmt>31-Dec 11:03a</cmt>
+    <desc>31-Dec 11:03a</desc>
+  </wpt>
+  <wpt lat="-13.509335965" lon="-71.982533941">
+    <ele>3609.200</ele>
+    <name>31-Dec 1:53p</name>
+    <cmt>31-Dec 1:53p</cmt>
+    <desc>31-Dec 1:53p</desc>
+  </wpt>
+  <wpt lat="-13.509332947" lon="-71.982529918">
+    <ele>3609.200</ele>
+    <name>31-Dec 1:02p</name>
+    <cmt>31-Dec 1:02p</cmt>
+    <desc>31-Dec 1:02p</desc>
+  </wpt>
+  <wpt lat="-13.410408972" lon="-71.853881953">
+    <ele>3392.400</ele>
+    <name>18-Feb 9:12a</name>
+    <cmt>18-Feb 9:12a</cmt>
+    <desc>18-Feb 9:12a</desc>
+  </wpt>
+  <wpt lat="-13.506051935" lon="-71.981552923">
+    <ele>3604.000</ele>
+    <name>31-Dec 11:30a</name>
+    <cmt>31-Dec 11:30a</cmt>
+    <desc>31-Dec 11:30a</desc>
+  </wpt>
+  <wpt lat="-13.423293969" lon="-71.849721931">
+    <ele>2967.400</ele>
+    <name>06-Jan 4:44p</name>
+    <cmt>06-Jan 4:44p</cmt>
+    <desc>06-Jan 4:44p</desc>
+  </wpt>
+  <wpt lat="-13.470520964" lon="-71.976861991">
+    <ele>4001.000</ele>
+    <name>28-Dec 11:49a</name>
+    <cmt>28-Dec 11:49a</cmt>
+    <desc>28-Dec 11:49a</desc>
+  </wpt>
+  <wpt lat="-13.506715950" lon="-71.980765946">
+    <ele>3601.400</ele>
+    <name>31-Dec 11:18a</name>
+    <cmt>31-Dec 11:18a</cmt>
+    <desc>31-Dec 11:18a</desc>
+  </wpt>
+  <wpt lat="-13.409097958" lon="-71.847320935">
+    <ele>3517.400</ele>
+    <name>18-Feb 12:22p</name>
+    <cmt>18-Feb 12:22p</cmt>
+    <desc>18-Feb 12:22p</desc>
+  </wpt>
+  <wpt lat="-13.408485996" lon="-71.844020979">
+    <ele>3457.400</ele>
+    <name>06-Jan 3:34p</name>
+    <cmt>06-Jan 3:34p</cmt>
+    <desc>06-Jan 3:34p</desc>
+  </wpt>
+  <wpt lat="-13.349950975" lon="-71.826885939">
+    <ele>4114.200</ele>
+    <name>25-Feb 12:10p</name>
+    <cmt>25-Feb 12:10p</cmt>
+    <desc>25-Feb 12:10p</desc>
+  </wpt>
+  <wpt lat="-13.409700952" lon="-71.845592000">
+    <ele>3427.600</ele>
+    <name>15-Feb 4:05p</name>
+    <cmt>15-Feb 4:05p</cmt>
+    <desc>15-Feb 4:05p</desc>
+  </wpt>
+  <wpt lat="-13.508323934" lon="-71.982529918">
+    <ele>3593.200</ele>
+    <name>31-Dec 11:07a</name>
+    <cmt>31-Dec 11:07a</cmt>
+    <desc>31-Dec 11:07a</desc>
+  </wpt>
+  <wpt lat="-13.508582935" lon="-71.981704971">
+    <ele>3587.400</ele>
+    <name>31-Dec 12:53p</name>
+    <cmt>31-Dec 12:53p</cmt>
+    <desc>31-Dec 12:53p</desc>
+  </wpt>
+  <wpt lat="-13.413425954" lon="-71.850678977">
+    <ele>3371.600</ele>
+    <name>18-Feb 9:28a</name>
+    <cmt>18-Feb 9:28a</cmt>
+    <desc>18-Feb 9:28a</desc>
+  </wpt>
+  <wpt lat="-13.412005976" lon="-71.850714935">
+    <ele>3444.800</ele>
+    <name>12-Feb 5:23p</name>
+    <cmt>12-Feb 5:23p</cmt>
+    <desc>12-Feb 5:23p</desc>
+  </wpt>
+  <wpt lat="-13.508052947" lon="-71.983284960">
+    <ele>3593.200</ele>
+    <name>31-Dec 11:05a</name>
+    <cmt>31-Dec 11:05a</cmt>
+    <desc>31-Dec 11:05a</desc>
+  </wpt>
+  <wpt lat="-13.412639983" lon="-71.847533919">
+    <ele>3298.200</ele>
+    <name>09-Feb 11:37a</name>
+    <cmt>09-Feb 11:37a</cmt>
+    <desc>09-Feb 11:37a</desc>
+  </wpt>
+  <wpt lat="-13.506220998" lon="-71.981820976">
+    <ele>3615.000</ele>
+    <name>31-Dec 2:50p</name>
+    <cmt>31-Dec 2:50p</cmt>
+    <desc>31-Dec 2:50p</desc>
+  </wpt>
+  <wpt lat="-13.508494925" lon="-71.981698936">
+    <ele>3586.400</ele>
+    <name>31-Dec 12:52p</name>
+    <cmt>31-Dec 12:52p</cmt>
+    <desc>31-Dec 12:52p</desc>
+  </wpt>
+  <wpt lat="-13.504389971" lon="-71.980881952">
+    <ele>3618.000</ele>
+    <name>31-Dec 3:06p</name>
+    <cmt>31-Dec 3:06p</cmt>
+    <desc>31-Dec 3:06p</desc>
+  </wpt>
+  <wpt lat="-13.522410979" lon="-71.989231920">
+    <ele>3458.800</ele>
+    <name>28-Dec 6:05p</name>
+    <cmt>28-Dec 6:05p</cmt>
+    <desc>28-Dec 6:05p</desc>
+  </wpt>
+  <wpt lat="-13.460169984" lon="-71.984055927">
+    <ele>4147.800</ele>
+    <name>30-Dec 12:59p</name>
+    <cmt>30-Dec 12:59p</cmt>
+    <desc>30-Dec 12:59p</desc>
+  </wpt>
+  <wpt lat="-13.506331975" lon="-71.981917955">
+    <ele>3615.600</ele>
+    <name>31-Dec 2:49p</name>
+    <cmt>31-Dec 2:49p</cmt>
+    <desc>31-Dec 2:49p</desc>
+  </wpt>
+  <wpt lat="-13.508233996" lon="-71.983718975">
+    <ele>3592.800</ele>
+    <name>31-Dec 11:03a</name>
+    <cmt>31-Dec 11:03a</cmt>
+    <desc>31-Dec 11:03a</desc>
+  </wpt>
+  <wpt lat="-13.506051935" lon="-71.981552923">
+    <ele>3604.200</ele>
+    <name>31-Dec 11:32a</name>
+    <cmt>31-Dec 11:32a</cmt>
+    <desc>31-Dec 11:32a</desc>
+  </wpt>
+  <wpt lat="-13.508386966" lon="-71.983561981">
+    <ele>3604.000</ele>
+    <name>31-Dec 2:35p</name>
+    <cmt>31-Dec 2:35p</cmt>
+    <desc>31-Dec 2:35p</desc>
+  </wpt>
+  <wpt lat="-13.505086927" lon="-71.981364917">
+    <ele>3617.800</ele>
+    <name>31-Dec 3:10p</name>
+    <cmt>31-Dec 3:10p</cmt>
+    <desc>31-Dec 3:10p</desc>
+  </wpt>
+  <wpt lat="-13.406807939" lon="-71.844374947">
+    <ele>3461.000</ele>
+    <name>15-Feb 1:07p</name>
+    <cmt>15-Feb 1:07p</cmt>
+    <desc>15-Feb 1:07p</desc>
+  </wpt>
+  <wpt lat="-13.505516918" lon="-71.981504979">
+    <ele>3603.800</ele>
+    <name>31-Dec 11:41a</name>
+    <cmt>31-Dec 11:41a</cmt>
+    <desc>31-Dec 11:41a</desc>
+  </wpt>
+  <wpt lat="-13.379882919" lon="-71.810356993">
+    <ele>3574.000</ele>
+    <name>25-Feb 9:33a</name>
+    <cmt>25-Feb 9:33a</cmt>
+    <desc>25-Feb 9:33a</desc>
+  </wpt>
+  <wpt lat="-13.418018986" lon="-71.845500972">
+    <ele>3254.400</ele>
+    <name>06-Jan 1:10p</name>
+    <cmt>06-Jan 1:10p</cmt>
+    <desc>06-Jan 1:10p</desc>
+  </wpt>
+  <wpt lat="-13.508437928" lon="-71.981933964">
+    <ele>3595.800</ele>
+    <name>31-Dec 11:11a</name>
+    <cmt>31-Dec 11:11a</cmt>
+    <desc>31-Dec 11:11a</desc>
+  </wpt>
+  <wpt lat="-13.413341967" lon="-71.846186947">
+    <ele>3307.200</ele>
+    <name>15-Feb 4:21p</name>
+    <cmt>15-Feb 4:21p</cmt>
+    <desc>15-Feb 4:21p</desc>
+  </wpt>
+  <wpt lat="-13.407767918" lon="-71.844965955">
+    <ele>3439.800</ele>
+    <name>15-Feb 1:01p</name>
+    <cmt>15-Feb 1:01p</cmt>
+    <desc>15-Feb 1:01p</desc>
+  </wpt>
+  <wpt lat="-13.508331981" lon="-71.982399998">
+    <ele>3593.600</ele>
+    <name>31-Dec 11:08a</name>
+    <cmt>31-Dec 11:08a</cmt>
+    <desc>31-Dec 11:08a</desc>
+  </wpt>
+  <wpt lat="-13.507383987" lon="-71.981393918">
+    <ele>3604.800</ele>
+    <name>31-Dec 12:02p</name>
+    <cmt>31-Dec 12:02p</cmt>
+    <desc>31-Dec 12:02p</desc>
+  </wpt>
+  <wpt lat="-13.465951988" lon="-71.975975940">
+    <ele>4134.400</ele>
+    <name>29-Dec 10:31a</name>
+    <cmt>29-Dec 10:31a</cmt>
+    <desc>29-Dec 10:31a</desc>
+  </wpt>
+  <wpt lat="-13.483402943" lon="-71.965152975">
+    <ele>3844.000</ele>
+    <name>29-Dec 8:35a</name>
+    <cmt>29-Dec 8:35a</cmt>
+    <desc>29-Dec 8:35a</desc>
+  </wpt>
+  <wpt lat="-13.474986926" lon="-71.978533929">
+    <ele>3961.000</ele>
+    <name>29-Dec 12:49p</name>
+    <cmt>29-Dec 12:49p</cmt>
+    <desc>29-Dec 12:49p</desc>
+  </wpt>
+  <wpt lat="-13.506310936" lon="-71.982071931">
+    <ele>3615.600</ele>
+    <name>31-Dec 2:48p</name>
+    <cmt>31-Dec 2:48p</cmt>
+    <desc>31-Dec 2:48p</desc>
+  </wpt>
+  <wpt lat="-13.062312976" lon="-74.196116952">
+    <ele>2777.800</ele>
+    <name>22-Dec 11:20a</name>
+    <cmt>22-Dec 11:20a</cmt>
+    <desc>22-Dec 11:20a</desc>
+  </wpt>
+  <wpt lat="-13.472139928" lon="-71.976866936">
+    <ele>3972.400</ele>
+    <name>28-Dec 11:40a</name>
+    <cmt>28-Dec 11:40a</cmt>
+    <desc>28-Dec 11:40a</desc>
+  </wpt>
+  <wpt lat="-13.408387927" lon="-71.845353954">
+    <ele>3431.800</ele>
+    <name>15-Feb 12:57p</name>
+    <cmt>15-Feb 12:57p</cmt>
+    <desc>15-Feb 12:57p</desc>
+  </wpt>
+  <wpt lat="-13.405096941" lon="-71.845681937">
+    <ele>3590.400</ele>
+    <name>18-Feb 12:08p</name>
+    <cmt>18-Feb 12:08p</cmt>
+    <desc>18-Feb 12:08p</desc>
+  </wpt>
+  <wpt lat="-13.521839920" lon="-71.981982999">
+    <ele>3421.000</ele>
+    <name>19-Jan 11:12a</name>
+    <cmt>19-Jan 11:12a</cmt>
+    <desc>19-Jan 11:12a</desc>
+  </wpt>
+  <wpt lat="-13.063151920" lon="-74.198529935">
+    <ele>2735.000</ele>
+    <name>22-Dec 11:57a</name>
+    <cmt>22-Dec 11:57a</cmt>
+    <desc>22-Dec 11:57a</desc>
+  </wpt>
+  <wpt lat="-13.509142930" lon="-71.982611977">
+    <ele>3608.800</ele>
+    <name>31-Dec 1:55p</name>
+    <cmt>31-Dec 1:55p</cmt>
+    <desc>31-Dec 1:55p</desc>
+  </wpt>
+  <wpt lat="-13.415062940" lon="-71.844400931">
+    <ele>3319.800</ele>
+    <name>06-Jan 1:45p</name>
+    <cmt>06-Jan 1:45p</cmt>
+    <desc>06-Jan 1:45p</desc>
+  </wpt>
+  <wpt lat="-13.417688990" lon="-71.844939971">
+    <ele>3277.600</ele>
+    <name>06-Jan 1:16p</name>
+    <cmt>06-Jan 1:16p</cmt>
+    <desc>06-Jan 1:16p</desc>
+  </wpt>
+  <wpt lat="-13.472498925" lon="-71.982631925">
+    <ele>4039.800</ele>
+    <name>29-Dec 12:35p</name>
+    <cmt>29-Dec 12:35p</cmt>
+    <desc>29-Dec 12:35p</desc>
+  </wpt>
+  <wpt lat="-13.504295927" lon="-71.980847921">
+    <ele>3619.400</ele>
+    <name>31-Dec 3:04p</name>
+    <cmt>31-Dec 3:04p</cmt>
+    <desc>31-Dec 3:04p</desc>
+  </wpt>
+  <wpt lat="-13.467630967" lon="-71.983635994">
+    <ele>4155.400</ele>
+    <name>29-Dec 12:20p</name>
+    <cmt>29-Dec 12:20p</cmt>
+    <desc>29-Dec 12:20p</desc>
+  </wpt>
+  <wpt lat="-13.505415916" lon="-71.981698936">
+    <ele>3606.800</ele>
+    <name>31-Dec 11:37a</name>
+    <cmt>31-Dec 11:37a</cmt>
+    <desc>31-Dec 11:37a</desc>
+  </wpt>
+  <wpt lat="-13.509495975" lon="-71.982521955">
+    <ele>3603.000</ele>
+    <name>31-Dec 1:48p</name>
+    <cmt>31-Dec 1:48p</cmt>
+    <desc>31-Dec 1:48p</desc>
+  </wpt>
+  <wpt lat="-13.508425942" lon="-71.981181940">
+    <ele>3592.800</ele>
+    <name>31-Dec 11:13a</name>
+    <cmt>31-Dec 11:13a</cmt>
+    <desc>31-Dec 11:13a</desc>
+  </wpt>
+  <wpt lat="-13.507228922" lon="-71.982295979">
+    <ele>3611.800</ele>
+    <name>31-Dec 12:11p</name>
+    <cmt>31-Dec 12:11p</cmt>
+    <desc>31-Dec 12:11p</desc>
+  </wpt>
+  <wpt lat="-13.462423962" lon="-71.985656954">
+    <ele>4178.800</ele>
+    <name>29-Dec 11:02a</name>
+    <cmt>29-Dec 11:02a</cmt>
+    <desc>29-Dec 11:02a</desc>
+  </wpt>
+  <wpt lat="-13.505778937" lon="-71.981140953">
+    <ele>3605.400</ele>
+    <name>31-Dec 11:27a</name>
+    <cmt>31-Dec 11:27a</cmt>
+    <desc>31-Dec 11:27a</desc>
+  </wpt>
+  <wpt lat="-13.437217986" lon="-71.829016954">
+    <ele>3216.000</ele>
+    <name>21-Jan 1:06p</name>
+    <cmt>21-Jan 1:06p</cmt>
+    <desc>21-Jan 1:06p</desc>
+  </wpt>
+  <wpt lat="-13.504107920" lon="-71.981020924">
+    <ele>3619.600</ele>
+    <name>31-Dec 3:02p</name>
+    <cmt>31-Dec 3:02p</cmt>
+    <desc>31-Dec 3:02p</desc>
+  </wpt>
+  <wpt lat="-13.469110960" lon="-71.976539958">
+    <ele>4020.600</ele>
+    <name>28-Dec 11:53a</name>
+    <cmt>28-Dec 11:53a</cmt>
+    <desc>28-Dec 11:53a</desc>
+  </wpt>
+  <wpt lat="-13.478962965" lon="-71.973752975">
+    <ele>3939.800</ele>
+    <name>29-Dec 1:19p</name>
+    <cmt>29-Dec 1:19p</cmt>
+    <desc>29-Dec 1:19p</desc>
+  </wpt>
+  <wpt lat="-13.466456998" lon="-71.975315949">
+    <ele>4115.000</ele>
+    <name>29-Dec 10:25a</name>
+    <cmt>29-Dec 10:25a</cmt>
+    <desc>29-Dec 10:25a</desc>
+  </wpt>
+  <wpt lat="-13.506118990" lon="-71.981808990">
+    <ele>3615.600</ele>
+    <name>31-Dec 2:51p</name>
+    <cmt>31-Dec 2:51p</cmt>
+    <desc>31-Dec 2:51p</desc>
+  </wpt>
+  <wpt lat="-13.414501939" lon="-71.844024919">
+    <ele>3343.000</ele>
+    <name>06-Jan 1:51p</name>
+    <cmt>06-Jan 1:51p</cmt>
+    <desc>06-Jan 1:51p</desc>
+  </wpt>
+  <wpt lat="-13.508368945" lon="-71.982146949">
+    <ele>3595.200</ele>
+    <name>31-Dec 11:10a</name>
+    <cmt>31-Dec 11:10a</cmt>
+    <desc>31-Dec 11:10a</desc>
+  </wpt>
+  <wpt lat="-13.432415994" lon="-71.983225951">
+    <ele>4273.800</ele>
+    <name>01-Jan 2:09p</name>
+    <cmt>01-Jan 2:09p</cmt>
+    <desc>01-Jan 2:09p</desc>
+  </wpt>
+  <wpt lat="-13.509554984" lon="-71.982294973">
+    <ele>3603.000</ele>
+    <name>31-Dec 1:47p</name>
+    <cmt>31-Dec 1:47p</cmt>
+    <desc>31-Dec 1:47p</desc>
+  </wpt>
+  <wpt lat="-13.476852989" lon="-71.968607996">
+    <ele>3986.000</ele>
+    <name>28-Dec 10:38a</name>
+    <cmt>28-Dec 10:38a</cmt>
+    <desc>28-Dec 10:38a</desc>
+  </wpt>
+  <wpt lat="-13.507132949" lon="-71.983482940">
+    <ele>3592.400</ele>
+    <name>31-Dec 2:39p</name>
+    <cmt>31-Dec 2:39p</cmt>
+    <desc>31-Dec 2:39p</desc>
+  </wpt>
+  <wpt lat="-13.458929965" lon="-71.986532947">
+    <ele>4129.400</ele>
+    <name>30-Dec 12:45p</name>
+    <cmt>30-Dec 12:45p</cmt>
+    <desc>30-Dec 12:45p</desc>
+  </wpt>
+  <wpt lat="-13.506688960" lon="-71.981698936">
+    <ele>3609.800</ele>
+    <name>31-Dec 11:51a</name>
+    <cmt>31-Dec 11:51a</cmt>
+    <desc>31-Dec 11:51a</desc>
+  </wpt>
+  <wpt lat="-13.406588919" lon="-71.841575978">
+    <ele>3460.000</ele>
+    <name>06-Jan 3:18p</name>
+    <cmt>06-Jan 3:18p</cmt>
+    <desc>06-Jan 3:18p</desc>
+  </wpt>
+  <wpt lat="-13.506512940" lon="-71.981819971">
+    <ele>3609.000</ele>
+    <name>31-Dec 11:50a</name>
+    <cmt>31-Dec 11:50a</cmt>
+    <desc>31-Dec 11:50a</desc>
+  </wpt>
+  <wpt lat="-13.411041973" lon="-71.843648991">
+    <ele>3408.400</ele>
+    <name>06-Jan 2:59p</name>
+    <cmt>06-Jan 2:59p</cmt>
+    <desc>06-Jan 2:59p</desc>
+  </wpt>
+  <wpt lat="-13.478090996" lon="-71.974580940">
+    <ele>3950.800</ele>
+    <name>30-Dec 8:36a</name>
+    <cmt>30-Dec 8:36a</cmt>
+    <desc>30-Dec 8:36a</desc>
+  </wpt>
+  <wpt lat="-13.508386966" lon="-71.983561981">
+    <ele>3604.000</ele>
+    <name>31-Dec 2:34p</name>
+    <cmt>31-Dec 2:34p</cmt>
+    <desc>31-Dec 2:34p</desc>
+  </wpt>
+  <wpt lat="-13.403810989" lon="-71.846538987">
+    <ele>3641.800</ele>
+    <name>15-Feb 2:23p</name>
+    <cmt>15-Feb 2:23p</cmt>
+    <desc>15-Feb 2:23p</desc>
+  </wpt>
+  <wpt lat="-13.403949961" lon="-71.845853934">
+    <ele>3624.600</ele>
+    <name>18-Feb 12:02p</name>
+    <cmt>18-Feb 12:02p</cmt>
+    <desc>18-Feb 12:02p</desc>
+  </wpt>
+  <wpt lat="-13.063151920" lon="-74.198529935">
+    <ele>2735.200</ele>
+    <name>22-Dec 11:57a</name>
+    <cmt>22-Dec 11:57a</cmt>
+    <desc>22-Dec 11:57a</desc>
+  </wpt>
+  <trk/>
+</gpx>

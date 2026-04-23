@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2026-04-23T22:03:34.618Z</time>
+  <bounds minlat="-13.134117974" minlon="-74.230601192" maxlat="-13.134116633" maxlon="-74.230598677"/>
+  <wpt lat="-13.134116633" lon="-74.230598677">
+    <name>LAP001</name>
+    <cmt>LAP001</cmt>
+    <desc>LAP001</desc>
+  </wpt>
+  <trk>
+    <trkseg>
+      <trkpt lat="-13.134117974" lon="-74.230601192">
+        <ele>2831.400</ele>
+        <time>2025-12-27T01:10:39Z</time>
+        <speed>0.532000</speed>
+      </trkpt>
+      <trkpt lat="-13.134116633" lon="-74.230598677">
+        <ele>2830.000</ele>
+        <time>2025-12-27T01:10:40Z</time>
+        <speed>0.308000</speed>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

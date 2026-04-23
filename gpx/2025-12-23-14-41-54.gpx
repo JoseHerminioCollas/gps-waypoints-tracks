@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2026-04-23T22:03:34.300Z</time>
+  <bounds minlat="-13.163770130" minlon="-74.231681451" maxlat="-13.163768873" maxlon="-74.231680864"/>
+  <wpt lat="-13.163768873" lon="-74.231681367">
+    <name>LAP001</name>
+    <cmt>LAP001</cmt>
+    <desc>LAP001</desc>
+  </wpt>
+  <trk>
+    <trkseg>
+      <trkpt lat="-13.163769795" lon="-74.231681284">
+        <ele>2845.000</ele>
+        <time>2025-12-23T19:41:54Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="-13.163769543" lon="-74.231680948">
+        <ele>2845.000</ele>
+        <time>2025-12-23T19:41:55Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="-13.163769962" lon="-74.231680864">
+        <ele>2845.000</ele>
+        <time>2025-12-23T19:41:56Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="-13.163770130" lon="-74.231680948">
+        <ele>2845.000</ele>
+        <time>2025-12-23T19:41:57Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="-13.163769878" lon="-74.231681284">
+        <ele>2845.000</ele>
+        <time>2025-12-23T19:41:58Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="-13.163769627" lon="-74.231681367">
+        <ele>2845.000</ele>
+        <time>2025-12-23T19:41:59Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="-13.163769376" lon="-74.231681451">
+        <ele>2845.000</ele>
+        <time>2025-12-23T19:42:00Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+      <trkpt lat="-13.163768873" lon="-74.231681367">
+        <ele>2845.000</ele>
+        <time>2025-12-23T19:42:01Z</time>
+        <speed>0.000000</speed>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
