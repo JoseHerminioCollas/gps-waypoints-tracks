@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>GPS device</name>
+    <snippet>Created Wed Apr 22 21:20:47 2026 GMT</snippet>
+    <LookAt>
+      <gx:TimeSpan>
+        <begin>2025-12-27T01:10:39Z</begin>
+        <end>2025-12-27T01:10:40Z</end>
+      </gx:TimeSpan>
+      <longitude>-74.230600</longitude>
+      <latitude>-13.134118</latitude>
+      <range>1300.000000</range>
+    </LookAt>
+    <!-- Normal track style -->
+    <Style id="track_n">
+      <IconStyle>
+        <scale>.5</scale>
+        <Icon>
+          <href>https://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <!-- Highlighted track style -->
+    <Style id="track_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="track">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#track_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#track_h</styleUrl>
+      </Pair>
+    </StyleMap>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="lineStyle">
+      <LineStyle>
+        <color>99ffac59</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Folder>
+      <name>Tracks</name>
+      <Folder>
+        <name>Jose Collas (-29)</name>
+        <snippet/>
+        <description>
+<![CDATA[<table>
+<tr><td><b>Description</b> Jose Collas (-29)</td></tr>
+<tr><td><b>Distance</b> 0.8 ft</td></tr>
+<tr><td><b>Min Alt</b> 9284.777 ft</td></tr>
+<tr><td><b>Max Alt</b> 9289.370 ft</td></tr>
+<tr><td><b>Start Time</b> 2025-12-27T01:10:39Z</td></tr>
+<tr><td><b>End Time</b> 2025-12-27T01:10:40Z</td></tr>
+</table>
+]]>
+</description>
+        <TimeSpan>
+          <begin>2025-12-27T01:10:39Z</begin>
+          <end>2025-12-27T01:10:40Z</end>
+        </TimeSpan>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+<styleUrl>#circleIcon</styleUrl>
+            <name>Jose Collas (-29)-0</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -74.230601</td></tr>
+<tr><td>Latitude: -13.134118</td></tr>
+<tr><td>Altitude: 9289.370 ft</td></tr>
+<tr><td>Time: 2025-12-27T01:10:39Z</td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-74.230601</longitude>
+              <latitude>-13.134118</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp>
+              <when>2025-12-27T01:10:39Z</when>
+            </TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-74.230601,-13.134118,2831.40</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+<styleUrl>#circleIcon</styleUrl>
+            <name>Jose Collas (-29)-1</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -74.230599</td></tr>
+<tr><td>Latitude: -13.134117</td></tr>
+<tr><td>Altitude: 9284.777 ft</td></tr>
+<tr><td>Heading: 62.8</td></tr>
+<tr><td>Time: 2025-12-27T01:10:40Z</td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-74.230599</longitude>
+              <latitude>-13.134117</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp>
+              <when>2025-12-27T01:10:40Z</when>
+            </TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-74.230599,-13.134117,2830.00</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+<styleUrl>#circleIcon</styleUrl>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-74.230601,-13.134118,2831.40
+-74.230599,-13.134117,2830.00
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+    </Folder>
+  
+    <Style id="circleIcon">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    
+</Document>
+</kml>
