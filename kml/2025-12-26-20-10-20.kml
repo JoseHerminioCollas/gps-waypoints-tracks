@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>2026-04-24T20:10:50.806Z</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+-74.230601192,-13.134117974,2831.400
+-74.230598677,-13.134116633,2830.000
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
