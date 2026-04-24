@@ -1,0 +1,2002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <!-- Define reusable style with hidden labels -->
+    <Style id="circleIcon">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.0</scale>
+      </LabelStyle>
+    </Style>
+
+
+    <Placemark>
+      <name>20-Dec 1:17p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-74.227338284,-13.151995400,2794.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>22-Dec 11:20a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-74.196117120,-13.062313898,2777.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>22-Dec 11:57a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-74.198530773,-13.063152339,2735.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>22-Dec 11:57a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-74.198530773,-13.063152339,2735.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>22-Dec 11:57a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-74.198530773,-13.063152339,2735.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>28-Dec 10:13a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.967337048,-13.478989536,3804.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>28-Dec 10:38a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.968608750,-13.476853324,3986.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>28-Dec 11:20a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.973178731,-13.474346129,3918.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>28-Dec 11:40a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.976867439,-13.472140767,3972.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>28-Dec 11:49a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.976862494,-13.470521970,4001.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>28-Dec 11:53a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.976540880,-13.469111295,4020.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>28-Dec 6:05p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.989232004,-13.522411231,3458.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 8:35a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.965153730,-13.483403781,3844.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 8:59a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.970879994,-13.481845167,3915.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 10:25a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.975316787,-13.466457250,4115.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 10:31a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.975976024,-13.465952240,4134.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 11:02a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.985657876,-13.462424129,4178.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 12:12p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.984427581,-13.467790727,4162.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 12:20p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.983636832,-13.467631135,4155.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 12:35p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982632177,-13.472499428,4039.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 12:49p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.978534684,-13.474987848,3961.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 1:19p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.973753227,-13.478963636,3939.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 2:32p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.961776745,-13.483192222,3796.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>30-Dec 8:36a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.974581862,-13.478091164,3950.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>30-Dec 11:35a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.986404788,-13.458651770,4131.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>30-Dec 12:45p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.986533953,-13.458930049,4129.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>30-Dec 12:55p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.984757073,-13.459662460,4136.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>30-Dec 12:59p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.984056346,-13.460170152,4147.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:00a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.984035559,-13.508804636,3585.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:03a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.983719477,-13.508234583,3592.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:03a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.983617218,-13.508137185,3592.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:04a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.983476570,-13.508070884,3591.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:05a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.983285630,-13.508053953,3593.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:07a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982530337,-13.508324521,3593.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:08a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982400753,-13.508332232,3593.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:10a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982147535,-13.508369531,3595.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:11a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981934970,-13.508438598,3595.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:11a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981959278,-13.508457625,3595.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:12a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981378244,-13.508404819,3593.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:13a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981182694,-13.508426528,3592.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:18a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.980766449,-13.506716033,3601.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:20a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.980717164,-13.506054282,3609.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:27a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981141036,-13.505779020,3605.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:30a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981553091,-13.506052354,3604.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:32a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981553091,-13.506052354,3604.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:35a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981306076,-13.505701991,3604.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:37a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981699439,-13.505416419,3606.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:41a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981505649,-13.505517673,3603.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:44a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981867161,-13.506014217,3605.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:50a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981820054,-13.506513024,3609.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:51a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981699858,-13.506689630,3609.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:52a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981603885,-13.506858693,3610.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 12:02p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981394589,-13.507384993,3604.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 12:09p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982235881,-13.507134039,3611.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 12:11p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982296398,-13.507229257,3611.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 12:52p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981699523,-13.508495595,3586.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 12:53p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981705641,-13.508583270,3587.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 1:02p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982530924,-13.509333869,3609.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 1:41p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.980480878,-13.511018464,3578.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 1:47p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982295979,-13.509555571,3603.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 1:48p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982522877,-13.509496646,3603.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 1:53p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982534779,-13.509336552,3609.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 1:55p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982612396,-13.509143516,3608.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 1:58p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982732257,-13.508808827,3609.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 2:34p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.983562736,-13.508387133,3604.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 2:35p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.983562736,-13.508387133,3604.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 2:39p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.983483946,-13.507133536,3592.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 2:48p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982072769,-13.506311523,3615.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 2:49p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981918793,-13.506332394,3615.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 2:50p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981821144,-13.506221082,3615.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 2:51p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981809577,-13.506119577,3615.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 2:52p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981844027,-13.505873065,3617.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 2:53p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981573878,-13.506115973,3610.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:00p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981270956,-13.504442023,3621.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:02p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981021678,-13.504108591,3619.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:04p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.980848340,-13.504296178,3619.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:05p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.980997957,-13.504441269,3618.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:05p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.980995527,-13.504442442,3618.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:06p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.980882790,-13.504390894,3618.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:07p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981037939,-13.504180675,3618.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:07p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981054787,-13.504199535,3618.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:10p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981365588,-13.505087262,3617.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:12p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.980793020,-13.506249832,3611.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:16p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981089320,-13.507323135,3600.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>01-Jan 11:40a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.985953590,-13.458492933,4131.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>01-Jan 12:08p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.989510283,-13.452539686,4169.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>01-Jan 12:14p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.989154555,-13.452356793,4171.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>01-Jan 2:09p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.983226957,-13.432416162,4273.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>01-Jan 3:25p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.971585834,-13.435869087,4319.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>06-Jan 12:43p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.847861148,-13.418850722,3158.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>06-Jan 1:10p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.845501140,-13.418019572,3254.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>06-Jan 1:16p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.844940977,-13.417689828,3277.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>06-Jan 1:45p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.844401350,-13.415063778,3319.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>06-Jan 1:51p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.844025422,-13.414502526,3343.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>06-Jan 2:59p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.843649661,-13.411042225,3408.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>06-Jan 3:18p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.841576146,-13.406589003,3460.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>06-Jan 3:34p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.844021063,-13.408486666,3457.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>06-Jan 4:44p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.849722182,-13.423294639,2967.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>19-Jan 11:12a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981983166,-13.521840172,3421.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>21-Jan 12:56p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.828655945,-13.437325777,3221.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>21-Jan 1:06p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.829017792,-13.437218657,3216.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>21-Jan 1:47p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.835813755,-13.434473332,2993.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>09-Feb 11:37a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.847534673,-13.412640737,3298.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>12-Feb 5:23p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.850715689,-13.412006898,3444.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15-Feb 12:33p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.845535589,-13.409196865,3419.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15-Feb 12:57p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.845354540,-13.408388682,3431.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15-Feb 1:01p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.844966961,-13.407768589,3439.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15-Feb 1:07p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.844375618,-13.406808274,3461.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15-Feb 1:23p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.845069388,-13.405068694,3521.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15-Feb 1:33p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.845762990,-13.406329500,3559.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15-Feb 2:23p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.846539322,-13.403811743,3641.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15-Feb 4:05p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.845592167,-13.409701455,3427.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15-Feb 4:21p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.846187199,-13.413342722,3307.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>18-Feb 9:12a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.853882959,-13.410409642,3392.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>18-Feb 9:23a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.852755593,-13.412934942,3380.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>18-Feb 9:28a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.850679144,-13.413426457,3371.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>18-Feb 10:31a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.846137829,-13.404318262,3613.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>18-Feb 12:02p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.845854521,-13.403950296,3624.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>18-Feb 12:08p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.845682021,-13.405097527,3590.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>18-Feb 12:16p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.846306892,-13.406764688,3560.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>18-Feb 12:22p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.847321438,-13.409098629,3517.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>25-Feb 9:33a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.810357245,-13.379883086,3574.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>25-Feb 12:10p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.826886358,-13.349951645,4114.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>25-Feb 3:14p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.817946890,-13.363605682,3906.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>30-Mar 10:39a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.849359497,-13.385380860,3985.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:20a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.980716996,-13.506053947,3609.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:35a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981305992,-13.505700985,3604.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:07p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981053948,-13.504198948,3618.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>01-Jan 12:08p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.989509948,-13.452538932,4169.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>01-Jan 3:25p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.971584996,-13.435868919,4319.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>01-Jan 12:14p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.989153968,-13.452355955,4171.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:16p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981088985,-13.507322967,3600.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>18-Feb 12:16p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.846305970,-13.406763934,3560.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>30-Dec 11:35a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.986403950,-13.458650932,4131.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:44a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981866993,-13.506013965,3605.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15-Feb 1:23p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.845068969,-13.405067939,3521.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 2:32p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.961775990,-13.483191971,3796.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15-Feb 1:33p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.845761985,-13.406328997,3559.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:00a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.984034972,-13.508803966,3585.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>28-Dec 11:20a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.973177977,-13.474345962,3918.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:12a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981377993,-13.508403981,3593.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:05p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.980996951,-13.504440933,3618.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>21-Jan 1:47p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.835812917,-13.434472997,2993.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 2:52p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981843943,-13.505872982,3617.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 12:12p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.984426994,-13.467789972,4162.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 1:58p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982731922,-13.508807989,3609.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>21-Jan 12:56p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.828654939,-13.437324939,3221.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 2:53p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981572956,-13.506114967,3610.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:52a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981602963,-13.506857939,3610.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>28-Dec 10:13a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.967336964,-13.478988949,3804.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>18-Feb 10:31a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.846136991,-13.404317927,3613.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:04a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.983475983,-13.508069962,3591.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>22-Dec 11:57a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-74.198529935,-13.063151920,2735.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:11a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981958942,-13.508456955,3595.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>30-Dec 12:55p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.984756989,-13.459661957,4136.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:07p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981036933,-13.504179921,3618.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:12p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.980792936,-13.506248994,3611.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 12:09p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982234959,-13.507133955,3611.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 8:59a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.970878989,-13.481844999,3915.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15-Feb 12:33p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.845534919,-13.409195943,3419.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>20-Dec 1:17p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-74.227337949,-13.151994981,2794.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>18-Feb 9:23a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.852754923,-13.412933936,3380.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:05p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.980994940,-13.504441939,3618.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 1:41p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.980479956,-13.511017961,3578.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:00p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981269950,-13.504441939,3621.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>06-Jan 12:43p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.847860981,-13.418849967,3158.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>01-Jan 11:40a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.985952919,-13.458491927,4131.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:03a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.983616967,-13.508136934,3592.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 1:53p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982533941,-13.509335965,3609.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 1:02p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982529918,-13.509332947,3609.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>18-Feb 9:12a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.853881953,-13.410408972,3392.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:30a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981552923,-13.506051935,3604.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>06-Jan 4:44p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.849721931,-13.423293969,2967.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>28-Dec 11:49a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.976861991,-13.470520964,4001.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:18a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.980765946,-13.506715950,3601.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>18-Feb 12:22p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.847320935,-13.409097958,3517.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>06-Jan 3:34p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.844020979,-13.408485996,3457.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>25-Feb 12:10p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.826885939,-13.349950975,4114.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15-Feb 4:05p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.845592000,-13.409700952,3427.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:07a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982529918,-13.508323934,3593.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 12:53p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981704971,-13.508582935,3587.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>18-Feb 9:28a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.850678977,-13.413425954,3371.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>12-Feb 5:23p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.850714935,-13.412005976,3444.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:05a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.983284960,-13.508052947,3593.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>09-Feb 11:37a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.847533919,-13.412639983,3298.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 2:50p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981820976,-13.506220998,3615.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 12:52p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981698936,-13.508494925,3586.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:06p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.980881952,-13.504389971,3618.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>28-Dec 6:05p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.989231920,-13.522410979,3458.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>30-Dec 12:59p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.984055927,-13.460169984,4147.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 2:49p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981917955,-13.506331975,3615.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:03a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.983718975,-13.508233996,3592.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:32a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981552923,-13.506051935,3604.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 2:35p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.983561981,-13.508386966,3604.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:10p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981364917,-13.505086927,3617.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15-Feb 1:07p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.844374947,-13.406807939,3461.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:41a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981504979,-13.505516918,3603.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>25-Feb 9:33a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.810356993,-13.379882919,3574.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>06-Jan 1:10p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.845500972,-13.418018986,3254.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:11a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981933964,-13.508437928,3595.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15-Feb 4:21p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.846186947,-13.413341967,3307.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15-Feb 1:01p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.844965955,-13.407767918,3439.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:08a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982399998,-13.508331981,3593.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 12:02p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981393918,-13.507383987,3604.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 10:31a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.975975940,-13.465951988,4134.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 8:35a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.965152975,-13.483402943,3844.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 12:49p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.978533929,-13.474986926,3961.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 2:48p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982071931,-13.506310936,3615.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>22-Dec 11:20a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-74.196116952,-13.062312976,2777.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>28-Dec 11:40a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.976866936,-13.472139928,3972.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15-Feb 12:57p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.845353954,-13.408387927,3431.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>18-Feb 12:08p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.845681937,-13.405096941,3590.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>19-Jan 11:12a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981982999,-13.521839920,3421.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>22-Dec 11:57a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-74.198529935,-13.063151920,2735.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 1:55p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982611977,-13.509142930,3608.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>06-Jan 1:45p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.844400931,-13.415062940,3319.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>06-Jan 1:16p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.844939971,-13.417688990,3277.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 12:35p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982631925,-13.472498925,4039.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:04p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.980847921,-13.504295927,3619.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 12:20p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.983635994,-13.467630967,4155.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:37a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981698936,-13.505415916,3606.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 1:48p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982521955,-13.509495975,3603.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:13a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981181940,-13.508425942,3592.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 12:11p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982295979,-13.507228922,3611.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 11:02a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.985656954,-13.462423962,4178.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:27a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981140953,-13.505778937,3605.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>21-Jan 1:06p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.829016954,-13.437217986,3216.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 3:02p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981020924,-13.504107920,3619.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>28-Dec 11:53a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.976539958,-13.469110960,4020.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 1:19p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.973752975,-13.478962965,3939.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>29-Dec 10:25a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.975315949,-13.466456998,4115.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 2:51p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981808990,-13.506118990,3615.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>06-Jan 1:51p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.844024919,-13.414501939,3343.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:10a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982146949,-13.508368945,3595.200</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>01-Jan 2:09p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.983225951,-13.432415994,4273.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 1:47p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.982294973,-13.509554984,3603.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>28-Dec 10:38a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.968607996,-13.476852989,3986.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 2:39p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.983482940,-13.507132949,3592.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>30-Dec 12:45p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.986532947,-13.458929965,4129.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:51a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981698936,-13.506688960,3609.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>06-Jan 3:18p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.841575978,-13.406588919,3460.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 11:50a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.981819971,-13.506512940,3609.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>06-Jan 2:59p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.843648991,-13.411041973,3408.400</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>30-Dec 8:36a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.974580940,-13.478090996,3950.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>31-Dec 2:34p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.983561981,-13.508386966,3604.000</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>15-Feb 2:23p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.846538987,-13.403810989,3641.800</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>18-Feb 12:02p</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-71.845853934,-13.403949961,3624.600</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>22-Dec 11:57a</name>
+      <styleUrl>#circleIcon</styleUrl>
+      <Point>
+        <coordinates>-74.198529935,-13.063151920,2735.200</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
